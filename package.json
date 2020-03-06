@@ -1,0 +1,14 @@
+{
+  "name": "closures-scope-javascript",
+  "version": "1.0.0",
+  "description": "Closures and Scope Course in JavaScript of Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Nathaly Riaño Bejarano",
+  "license": "MIT"
+}
